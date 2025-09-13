@@ -1,0 +1,21 @@
+# Archivos de compilación
+*.o
+*.a
+*.so
+*.out
+*.exe
+
+# Archivos intermedios y de dependencias
+*.d
+
+# Archivos de depuración
+*.log
+*.tmp
+*.swp
+*.bak
+
+# Directorios de compilación comunes
+build
+
+# Configuraciones de VisualStudioCode
+.vscode
